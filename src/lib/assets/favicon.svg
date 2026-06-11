@@ -1,0 +1,9 @@
+<svg width="480" height="480" viewBox="0 0 480 480" fill="none" xmlns="http://www.w3.org/2000/svg">
+<mask id="path-1-inside-1_6_2" fill="white">
+<rect width="480" height="480" rx="8"/>
+</mask>
+<rect width="480" height="480" rx="8" fill="#F7F8F7" stroke="#008054" stroke-width="40" mask="url(#path-1-inside-1_6_2)"/>
+<path d="M390 431H90V252V111H110V131H130V252V391H370V411H390V431Z" fill="#008054"/>
+<path d="M90 51H390V371H370V351H350V91H110V69H90V51Z" fill="#008054"/>
+<path d="M150 156V131H170.5L240 200L309.5 131H329.5L330 156L240 246L150 156Z" fill="#008054"/>
+</svg>
